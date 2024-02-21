@@ -1,4 +1,6 @@
 # First-Variation-on-Caesar-Cipher
+movingShift function is present in cipher.js
+
 First Variation on Caesar Cipher
 The action of a Caesar cipher is to replace each plaintext letter (plaintext letters are from 'a' to 'z' or from 'A' to 'Z') with a different one a fixed
 number of places up or down the alphabet.
